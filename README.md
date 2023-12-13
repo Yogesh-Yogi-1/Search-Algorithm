@@ -97,7 +97,9 @@ else:
 ## Sample Input and Output
 ## OUTPUT
 ![output](/Screenshot%202023-12-13%20205619.png)
+
 ![output](/Screenshot%202023-12-13%20205805.png)
+
 ![output](/Screenshot%202023-12-13%20205848.png)
 
 
